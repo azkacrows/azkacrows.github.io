@@ -1,0 +1,19 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /private/
+
+User-Agent: Googlebot
+User-Agent: Googlebot-Image
+Allow: /
+Disallow: /api/
+Disallow: /private/
+
+User-Agent: Bingbot
+Allow: /
+Disallow: /api/
+Disallow: /private/
+
+Host: https://azkacrows.github.io
+Sitemap: https://azkacrows.github.io/sitemap.xml
