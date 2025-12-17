@@ -15,5 +15,5 @@ Allow: /
 Disallow: /api/
 Disallow: /private/
 
-Host: https://azkacrows.github.io
-Sitemap: https://azkacrows.github.io/sitemap.xml
+Host: https://axell.my.id
+Sitemap: https://axell.my.id/sitemap.xml
